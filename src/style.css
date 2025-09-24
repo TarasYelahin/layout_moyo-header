@@ -2,15 +2,12 @@
   --blue: #00acdc;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 html {
   font-family: Roboto, sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
+  box-sizing: border-box;
 }
 
 body {
